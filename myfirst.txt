@@ -1,2 +1,3 @@
 first_commit_on_master
 second commit on master
+third commit on master
